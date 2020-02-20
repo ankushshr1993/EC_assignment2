@@ -1,0 +1,8 @@
+<quorum qwrite="3" qread="1">
+	<host node="nodeA" ip="localhost:8084"/>
+	<host node="nodeB" ip="localhost:8082"/>
+	<host node="nodeC" ip="localhost:8083"/>
+	<!--<host node="nodeA" ip="18.222.102.129:8081"/>
+	<host node="nodeB" ip="54.212.58.69:8082"/>
+	<host node="nodeC" ip="13.59.238.161:8083"/>-->
+</quorum>
